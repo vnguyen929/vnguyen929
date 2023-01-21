@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @daysOfOurLife
-- 👀 I’m interested in programming, tech, and sports
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Victor Nguyen
+- 👀 I’m interested in tech, music and sports
+- 🌱 I’m currently learning Java and Swift
 
 <!---
 daysOfOurLife/daysOfOurLife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
